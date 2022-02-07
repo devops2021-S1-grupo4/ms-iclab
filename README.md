@@ -11,7 +11,7 @@
 * ./mvnw.cmd clean package -e
 
 ### Run Jar
-* Local:      ./mvnw.cmd spring-boot:run 
+* Local:      ./mvnw.cmd spring-boot:run
 * Background: nohup bash mvnw.cmd spring-boot:run &
 
 ### Testing Application
@@ -29,7 +29,7 @@
 * ./mvnw clean package -e
 
 ### Run Jar
-* Local:      ./mvnw spring-boot:run 
+* Local:      ./mvnw spring-boot:run
 * Background: nohup bash mvnw spring-boot:run &
 
 ### Testing Application
