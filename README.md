@@ -1,5 +1,5 @@
 # Getting Started
-# nuevo merge main y develop
+
 ## Windowsasd
 ### Compile Code
 * ./mvnw.cmd clean compile -e
