@@ -1,5 +1,5 @@
 # Getting Started
-
+* Cambio estado mundial
 ## Windows
 ### Compile Code
 * ./mvnw.cmd clean compile -e
